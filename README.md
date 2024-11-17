@@ -21,7 +21,7 @@ Getting Started
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/currency-conversion-api.git
+git clone https://github.com/Aryan2vb/currency-conversion-api.git
 cd currency-conversion-api
 
 2. Update the API Key
